@@ -1,11 +1,12 @@
 <img align="left" height="170" src="computer.gif"/>
 
 ```elixir
-[papilon@void ~]$ fetch
 @@hi! welcome to my github profile@@
+[papilon@void ~]$ iex -S mix
 def papilon do
   %{
-    name: "Ademir Gustavo de Souza Silva", 
+    name: "Ademir Gustavo de Souza Silva",
+    interests: ~w(functional programming emacs open source)
   }
 end
 ``` 
