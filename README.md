@@ -2,7 +2,7 @@
 
 ```elixir
 @@hi! welcome to my github profile@@
-[papilon@void ~]$ iex -S mix
+[papilon@void ~]$ iex
 def papilon do
   %{
     name: "Ademir Gustavo de Souza Silva",
