@@ -1,8 +1,8 @@
 <img align="left" height="250" src="computer.gif"/>
 
 ```elixir
-@@hi! welcome to my github profile@@
-[papilon@void ~]$ iex
+@@hi! welcome to my github profile @@
+[papilon@void~]$ iex
 defmodule papilon do
   def my_profile do
     %{
